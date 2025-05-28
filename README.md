@@ -4,7 +4,7 @@ This project is a website that aims to educate users about GIFS. It covers about
 <br />
 
 <h2>Description</h2>
-- <b>HTML</b>
+- <b>HTML</br />
 - <b>CSS</b>
 
 <h2>Environment Used</h2>
